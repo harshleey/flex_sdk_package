@@ -1,0 +1,9 @@
+NOTES
+Install micro bundle
+Micro bundle allows you to create a library in multiple formats e.g commonjs, esm. 
+
+In the package.json file:
+
+- Once we build/bundle our package, it will create an index.js file in the dist folder.
+
+- Add other options like module, unpkg 
